@@ -19,3 +19,5 @@ Open the deployed GitHub Pages site after the Pages workflow completes.
 - Enemy target
 - Health, ammo and score
 - Respawn
+
+GitHub Pages is configured to deploy automatically from the `main` branch using GitHub Actions.
